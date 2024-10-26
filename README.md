@@ -1,4 +1,4 @@
-# Fresh Fruit Bunch (FFB) Ripeness Classification System
+# Fresh Fruit Bunch (FFB) Ripeness Detection/Classification System
 This project involves a web application developed in Python (Streamlit). \
 The YOLOv7 and YOLOv10 models have been used as classifiers. \
 This project was undertaken for my Master's degree. The source code will not be shared, as this project is considered an intellectual property of my University. However, a screenshot of the interface will be shown to give the gist of the work that has been done.
